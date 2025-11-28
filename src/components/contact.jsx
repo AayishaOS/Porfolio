@@ -13,7 +13,7 @@ function Contact() {
 
       <div className="form-container">
         <form
-          action="https://formspree.io/f/mnnklqal"  
+          action="https://formspree.io/f/mnnklqal"
           method="POST"
           className="contact-form"
           onSubmit={() => setSuccess(true)}
