@@ -24,7 +24,7 @@ function Home() {
           </span>
         </h2>
         <p>
-         I'm a Master's student in Software Application Development at CUSAT, Kochi, passionate about building innovative applications that solve real-world problems. I strive to create impactful solutions while staying updated with the latest technologies to grow my career.
+         I’m a Master’s student in Software Application Development, passionate about building real-world, impactful applications using modern technologies.
         </p> 
         <a href="#projects" className="btn">View My Work</a>
       </div>
