@@ -1,11 +1,19 @@
 .footer {
   width: 100%;
   background: #ffffff;
-  padding: 40px;
+  padding: 40px 20px;
   text-align: center;
-  margin-top: 80px;
   border-top: 1px solid #e6e6e6;
+
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  padding-left: calc(50vw - 50%);
+  padding-right: calc(50vw - 50%);
 }
+
 
 .footer-icons {
   display: flex;
